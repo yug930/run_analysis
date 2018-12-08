@@ -2,12 +2,12 @@
 
 ## # Merges the training and the test sets to create one data set.
 
-url : file url **
-filename : Name for the file **
-subject_train : subject IDs for train
-subject_test : subject IDs for test
-x_trainData: features data for train 
-x_testData : features data for test
+url : file url   
+filename : Name for the file   
+subject_train : subject IDs for train__
+subject_test : subject IDs for test <br />
+x_trainData: features data for train <br />
+x_testData : features data for test <br />
 y_trainData : activities data for train 
 y_testData  : activities data for test 
 activityNames : activities' names
